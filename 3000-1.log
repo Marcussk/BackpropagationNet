@@ -1,0 +1,15 @@
+532 samples tested
+Range - minimum: 0.000041
+Range - maximum: 0.235276
+Mean Absolute Deviation: 0.057556
+Total Error: 1.483738
+Class 1	Correct: 0.000000%	InCorrect : 100.000000%	Total: 1
+Class 2	Correct: 0.000000%	InCorrect : 100.000000%	Total: 1
+Class 3	Correct: 0.000000%	InCorrect : 100.000000%	Total: 3
+Class 4	Correct: 0.000000%	InCorrect : 100.000000%	Total: 17
+Class 5	Correct: 63.745020%	InCorrect : 36.254980%	Total: 251
+Class 6	Correct: 54.081633%	InCorrect : 45.918367%	Total: 196
+Class 7	Correct: 0.000000%	InCorrect : 100.000000%	Total: 62
+Class 8	Correct: 0.000000%	InCorrect : 100.000000%	Total: 9
+Class 9	Correct: 0.000000%	InCorrect : 100.000000%	Total: 1
+Class 10	Correct: 0%	InCorrect : 0%	Total: 0
